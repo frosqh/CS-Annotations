@@ -1,6 +1,6 @@
 # Des annotations ? Kézako ?
 
-Les annotations sont un nouveau système introduit par Valve pour afficher des symboles sur les cartes.
+Les annotations sont un nouveau système introduit par Valve™ pour afficher des symboles sur les cartes.
 
 Celles-ci permettent de signaler des lineups pour le stuff, mais aussi des repères pour des wallbangs ou simplement du texte.
 
@@ -52,7 +52,7 @@ Une fois en jeu, il faut commencer par autoriser l'utilisation d'annotations `sv
 
 # Création d'annotations
 
-#TODO
+Les outils développés par Valve™ sont 
 ## Repère de grenade
 
 ## Spot
@@ -67,12 +67,12 @@ Une fois en jeu, il faut commencer par autoriser l'utilisation d'annotations `sv
 
 Au-delà des fichiers README.md et .gitgnore, le dossier est composé d'un dossier pour chaque carte, et de différents fichiers pour les types d'annotations. Ces fichiers sont listés ci-dessous : 
 
-| Nom du fichier | Description                                                     |
-| -------------- | --------------------------------------------------------------- |
-| flashes.txt    | Contient les repères pour les flashes                           |
-| smokes.txt     | Contient les repères pour les fumigènes                         |
-| nades.txt      | Contient les repères pour les grenades explosives               |
-| molos.txt      | Contient les repères pour les molotovs et grenades incendiaires |
-| bangers.txt    | Contient les repères pour les travers                           |
-| positions.txt  | Contient le nom des différents positions                        |
-| À venir        |                                                                 |
+| Nom du fichier | Description                                                        |
+| -------------- | ------------------------------------------------------------------ |
+| flashes.txt    | Contient les repères pour les flashes 💥                           |
+| smokes.txt     | Contient les repères pour les fumigènes 🚬                         |
+| nades.txt      | Contient les repères pour les grenades explosives 💣               |
+| molos.txt      | Contient les repères pour les molotovs et grenades incendiaires 🔥 |
+| bangers.txt    | Contient les repères pour les travers 🧱                           |
+| positions.txt  | Contient le nom des différents positions 🗺                        |
+| À venir        | ⌛                                                                  |
