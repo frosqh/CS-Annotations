@@ -10,7 +10,7 @@ Celles-ci permettent de signaler des lineups pour le stuff, mais aussi des repè
 
 La première étape consiste à récupérer les annotations localement.
 
-Commencez par localiser le dossier d'accueil des annotations `steamapps\common\Counter-Strike Global Offensive\game\csgo\annotations`. Si vous ne savez pas où se trouve votre dossier d'installation de CS, vous pouvez y accéder depuis les propriétés Steam : `CS2 > Propriétés > Fichiers Intallés > Parcourir...`.
+Commencez par localiser le dossier d'accueil des annotations `steamapps\common\Counter-Strike Global Offensive\game\csgo\annotations`. Si vous ne savez pas où se trouve votre dossier d'installation de CS, vous pouvez y accéder depuis les propriétés Steam : `CS2 > Propriétés > Fichiers Intallés > Parcourir...`. Si le dossier `annotations` n'est pas présent, vous pouvez juste le créer.
 
 Puis, deux possibilités s'offrent à vous, en fonctions des besoins :
 
