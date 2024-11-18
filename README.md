@@ -22,4 +22,4 @@ Puisque git ne vous permet pas de cloner dans un dossier existant, renommez le d
 
 ### Téléchargement du dossier
 
-Si vous ne voulez pas vous em\*\*\*\*er avec git, vous pouvez simplement télécharger le dossier et le coller dans votre propre dossier d'annotations : 
+Si vous ne voulez pas vous em\*\*\*\*er avec git, vous pouvez simplement télécharger le dossier [https://github.com/frosqh/CS-Annotations/archive/refs/heads/main.zip](ici) et le coller dans votre propre dossier d'annotations 
