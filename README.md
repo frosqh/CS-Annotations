@@ -48,11 +48,21 @@ mp_startmoney 100000;
 
 ### Chargement du fichier d'annotations
 
-Une fois en jeu, il faut commencer par autoriser l'utilisation d'annotations `sv_allow_annotations true`. Une fois cela fait, on peut charger le fichier qui nous intéresse avec la commande `annotation_load [map]/[type]` où \[map\] et \[type\] sont à renseigner en fonction de vos besoins et en suivant la nomenclature rappelée [[#Architecture|plus bas]]. 
+Une fois en jeu, il faut commencer par autoriser l'utilisation d'annotations `sv_allow_annotations true`. Une fois cela fait, on peut charger le fichier qui nous intéresse avec la commande `annotation_load [map]/[type]` où \[map\] et \[type\] sont à renseigner en fonction de vos besoins et en suivant la nomenclature rappelée [plus bas](https://github.com/frosqh/CS-Annotations?tab=readme-ov-file#architecture-du-repo).
 
 # Création d'annotations
 
 #TODO
+## Repère de grenade
+
+## Spot
+
+## Position
+
+## Ligne
+
+## Texte
+
 # Architecture du repo
 
 Au-delà des fichiers README.md et .gitgnore, le dossier est composé d'un dossier pour chaque carte, et de différents fichiers pour les types d'annotations. Ces fichiers sont listés ci-dessous : 
