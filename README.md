@@ -50,6 +50,10 @@ mp_startmoney 100000;
 
 Une fois en jeu, il faut commencer par autoriser l'utilisation d'annotations `sv_allow_annotations true`. Une fois cela fait, on peut charger le fichier qui nous intéresse avec la commande `annotation_load [map]/[type]` où \[map\] et \[type\] sont à renseigner en fonction de vos besoins et en suivant la nomenclature rappelée [plus bas](https://github.com/frosqh/CS-Annotations?tab=readme-ov-file#architecture-du-repo).
 
+
+>[!Warning] Perte de données
+> Charger un fichier écrase toutes les annotations présentes !
+
 # Commandes relatives aux annotations
 
 Les outils développés par Valve™ sont encore bien incomplets. Aucune documentation officielle n'est disponible, mais un descriptif rapide est présenté ci-dessous.
@@ -81,10 +85,10 @@ Les arguments `title` et `desc` correspondent au titre et à la description qui 
 >[!Warning] Attention
 >Le dernier argument n'est pas pris en compte dans la commande, mais peut être édité à la main dans les fichiers *.txt.
 
-
-
-
 ### Enregistrement 
+
+Pour sauvegarder les changements que vous avez réalisé sur un fichier, vous pouvez exécuter la commande `annotation_save [nomdufichier]`.
+
 
 # Architecture du repo
 
