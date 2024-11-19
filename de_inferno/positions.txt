@@ -758,4 +758,758 @@
 			FadeOutDist = -1.0
 		}
 	}
+	MapAnnotationNode26 = 
+	{
+		Enabled = true
+		Type = "text"
+		Id = "05e8d7b2-66af-4860-a284-ae3a6a198eb6"
+		SubType = "main"
+		Position = [ -2.499596, 843.098267, 132.128525 ]
+		Angles = [ 6.743641, -179.751785, 0.0 ]
+		VisiblePfx = false
+		Color = [ 255, 255, 255 ]
+		TextPositionOffset = [ 0.0, 0.0, 0.0 ]
+		TextFacePlayer = true
+		TextHorizontalAlign = "center"
+		RevealOnSuccess = false
+		Title = 
+		{
+			Text = "Esca T"
+			FontSize = 125
+			FadeInDist = 800.0
+			FadeOutDist = -1.0
+		}
+		Desc = 
+		{
+			Text = ""
+			FontSize = 75
+			FadeInDist = 800.0
+			FadeOutDist = -1.0
+		}
+	}
+	MapAnnotationNode27 = 
+	{
+		Enabled = true
+		Type = "text"
+		Id = "6993c403-527e-4d0b-a943-8c9d388b2e3e"
+		SubType = "main"
+		Position = [ 286.506531, 627.896057, 113.950394 ]
+		Angles = [ -11.195152, -88.700928, 0.0 ]
+		VisiblePfx = false
+		Color = [ 255, 255, 255 ]
+		TextPositionOffset = [ 0.0, 0.0, 0.0 ]
+		TextFacePlayer = true
+		TextHorizontalAlign = "center"
+		RevealOnSuccess = false
+		Title = 
+		{
+			Text = "Mexico"
+			FontSize = 125
+			FadeInDist = 800.0
+			FadeOutDist = -1.0
+		}
+		Desc = 
+		{
+			Text = ""
+			FontSize = 75
+			FadeInDist = 800.0
+			FadeOutDist = -1.0
+		}
+	}
+	MapAnnotationNode28 = 
+	{
+		Enabled = true
+		Type = "text"
+		Id = "ea6b9782-87d9-4312-9353-e0449478a0f7"
+		SubType = "main"
+		Position = [ 68.977768, -122.94529, 119.378159 ]
+		Angles = [ -11.59381, 0.522902, 0.0 ]
+		VisiblePfx = false
+		Color = [ 255, 255, 255 ]
+		TextPositionOffset = [ 0.0, 0.0, 0.0 ]
+		TextFacePlayer = true
+		TextHorizontalAlign = "center"
+		RevealOnSuccess = false
+		Title = 
+		{
+			Text = "Second Mid"
+			FontSize = 125
+			FadeInDist = 800.0
+			FadeOutDist = -1.0
+		}
+		Desc = 
+		{
+			Text = ""
+			FontSize = 75
+			FadeInDist = 800.0
+			FadeOutDist = -1.0
+		}
+	}
+	MapAnnotationNode29 = 
+	{
+		Enabled = true
+		Type = "text"
+		Id = "5c5c5689-3374-42c9-b421-7bc479b6b45c"
+		SubType = "main"
+		Position = [ 549.270691, 526.340332, 156.353714 ]
+		Angles = [ -5.016245, -0.839123, 0.0 ]
+		VisiblePfx = false
+		Color = [ 255, 255, 255 ]
+		TextPositionOffset = [ 0.0, 0.0, 0.0 ]
+		TextFacePlayer = true
+		TextHorizontalAlign = "center"
+		RevealOnSuccess = false
+		Title = 
+		{
+			Text = "Mid"
+			FontSize = 125
+			FadeInDist = 800.0
+			FadeOutDist = -1.0
+		}
+		Desc = 
+		{
+			Text = ""
+			FontSize = 75
+			FadeInDist = 800.0
+			FadeOutDist = -1.0
+		}
+	}
+	MapAnnotationNode30 = 
+	{
+		Enabled = true
+		Type = "text"
+		Id = "35d0604c-ced2-4872-bad6-94f57addd3d4"
+		SubType = "main"
+		Position = [ 551.062683, 704.180237, 158.132294 ]
+		Angles = [ 0.1993, 154.896179, 0.0 ]
+		VisiblePfx = false
+		Color = [ 255, 255, 255 ]
+		TextPositionOffset = [ 0.0, 0.0, 0.0 ]
+		TextFacePlayer = true
+		TextHorizontalAlign = "center"
+		RevealOnSuccess = false
+		Title = 
+		{
+			Text = "Poubelle"
+			FontSize = 125
+			FadeInDist = 800.0
+			FadeOutDist = -1.0
+		}
+		Desc = 
+		{
+			Text = ""
+			FontSize = 75
+			FadeInDist = 800.0
+			FadeOutDist = -1.0
+		}
+	}
+	MapAnnotationNode31 = 
+	{
+		Enabled = true
+		Type = "text"
+		Id = "50972932-127a-4f75-948b-af1a6079fac4"
+		SubType = "main"
+		Position = [ 935.335815, -118.074928, 317.900116 ]
+		Angles = [ 1.129456, 179.54541, 0.0 ]
+		VisiblePfx = false
+		Color = [ 255, 255, 255 ]
+		TextPositionOffset = [ 0.0, 0.0, 0.0 ]
+		TextFacePlayer = true
+		TextHorizontalAlign = "center"
+		RevealOnSuccess = false
+		Title = 
+		{
+			Text = "Balcon T"
+			FontSize = 125
+			FadeInDist = 800.0
+			FadeOutDist = -1.0
+		}
+		Desc = 
+		{
+			Text = ""
+			FontSize = 75
+			FadeInDist = 800.0
+			FadeOutDist = -1.0
+		}
+	}
+	MapAnnotationNode32 = 
+	{
+		Enabled = true
+		Type = "text"
+		Id = "2eb44274-f5ee-4d93-9344-bca4fac48c56"
+		SubType = "main"
+		Position = [ -400.381836, -129.329575, 260.818207 ]
+		Angles = [ -3.388462, -0.734385, 0.0 ]
+		VisiblePfx = false
+		Color = [ 255, 255, 255 ]
+		TextPositionOffset = [ 0.0, 0.0, 0.0 ]
+		TextFacePlayer = true
+		TextHorizontalAlign = "center"
+		RevealOnSuccess = false
+		Title = 
+		{
+			Text = "Bridge"
+			FontSize = 125
+			FadeInDist = 800.0
+			FadeOutDist = -1.0
+		}
+		Desc = 
+		{
+			Text = ""
+			FontSize = 75
+			FadeInDist = 800.0
+			FadeOutDist = -1.0
+		}
+	}
+	MapAnnotationNode33 = 
+	{
+		Enabled = true
+		Type = "text"
+		Id = "71b2a38e-0392-4a31-8794-72e03085ec0c"
+		SubType = "main"
+		Position = [ -160.144257, 311.594025, 254.305893 ]
+		Angles = [ 0.896916, -177.232193, 0.0 ]
+		VisiblePfx = false
+		Color = [ 255, 255, 255 ]
+		TextPositionOffset = [ 0.0, 0.0, 0.0 ]
+		TextFacePlayer = true
+		TextHorizontalAlign = "center"
+		RevealOnSuccess = false
+		Title = 
+		{
+			Text = "Cuisine"
+			FontSize = 125
+			FadeInDist = 800.0
+			FadeOutDist = -1.0
+		}
+		Desc = 
+		{
+			Text = ""
+			FontSize = 75
+			FadeInDist = 800.0
+			FadeOutDist = -1.0
+		}
+	}
+	MapAnnotationNode34 = 
+	{
+		Enabled = true
+		Type = "text"
+		Id = "c1dcbd8d-7197-4c6a-82d5-b548f607557d"
+		SubType = "main"
+		Position = [ 381.518799, -664.5354, 155.34938 ]
+		Angles = [ -1.993226, 178.553894, 0.0 ]
+		VisiblePfx = false
+		Color = [ 255, 255, 255 ]
+		TextPositionOffset = [ 0.0, 0.0, 0.0 ]
+		TextFacePlayer = true
+		TextHorizontalAlign = "center"
+		RevealOnSuccess = false
+		Title = 
+		{
+			Text = "Appart T"
+			FontSize = 125
+			FadeInDist = 800.0
+			FadeOutDist = -1.0
+		}
+		Desc = 
+		{
+			Text = ""
+			FontSize = 75
+			FadeInDist = 800.0
+			FadeOutDist = -1.0
+		}
+	}
+	MapAnnotationNode35 = 
+	{
+		Enabled = true
+		Type = "text"
+		Id = "a58ecdef-3ef2-4256-a5d7-912607468d97"
+		SubType = "main"
+		Position = [ -908.00177, 530.856445, 23.601274 ]
+		Angles = [ 3.853496, -178.760269, 0.0 ]
+		VisiblePfx = false
+		Color = [ 255, 255, 255 ]
+		TextPositionOffset = [ 0.0, 0.0, 0.0 ]
+		TextFacePlayer = true
+		TextHorizontalAlign = "center"
+		RevealOnSuccess = false
+		Title = 
+		{
+			Text = "Spawn T"
+			FontSize = 125
+			FadeInDist = 800.0
+			FadeOutDist = -1.0
+		}
+		Desc = 
+		{
+			Text = ""
+			FontSize = 75
+			FadeInDist = 800.0
+			FadeOutDist = -1.0
+		}
+	}
+	MapAnnotationNode36 = 
+	{
+		Enabled = true
+		Type = "text"
+		Id = "e4400ce3-a2fd-420f-90a8-dcf748c7a646"
+		SubType = "main"
+		Position = [ 290.295349, 445.093201, 30.835079 ]
+		Angles = [ 6.544331, -89.963249, 0.0 ]
+		VisiblePfx = false
+		Color = [ 255, 255, 255 ]
+		TextPositionOffset = [ 0.0, 0.0, 0.0 ]
+		TextFacePlayer = true
+		TextHorizontalAlign = "center"
+		RevealOnSuccess = false
+		Title = 
+		{
+			Text = "Under"
+			FontSize = 125
+			FadeInDist = 800.0
+			FadeOutDist = -1.0
+		}
+		Desc = 
+		{
+			Text = ""
+			FontSize = 75
+			FadeInDist = 800.0
+			FadeOutDist = -1.0
+		}
+	}
+	MapAnnotationNode37 = 
+	{
+		Enabled = true
+		Type = "text"
+		Id = "d0b09205-3f47-4132-91d8-8f8e74a5e690"
+		SubType = "main"
+		Position = [ 1285.293213, 323.096893, 190.653717 ]
+		Angles = [ 0.69761, -178.82666, 0.0 ]
+		VisiblePfx = false
+		Color = [ 255, 255, 255 ]
+		TextPositionOffset = [ 0.0, 0.0, 0.0 ]
+		TextFacePlayer = true
+		TextHorizontalAlign = "center"
+		RevealOnSuccess = false
+		Title = 
+		{
+			Text = "Boiler"
+			FontSize = 125
+			FadeInDist = 800.0
+			FadeOutDist = -1.0
+		}
+		Desc = 
+		{
+			Text = ""
+			FontSize = 75
+			FadeInDist = 800.0
+			FadeOutDist = -1.0
+		}
+	}
+	MapAnnotationNode38 = 
+	{
+		Enabled = true
+		Type = "text"
+		Id = "7949ff8f-0c39-4db7-8c14-45dc87fa90ab"
+		SubType = "main"
+		Position = [ 1430.963745, -40.230831, 192.567017 ]
+		Angles = [ 1.893531, -89.963165, 0.0 ]
+		VisiblePfx = false
+		Color = [ 255, 255, 255 ]
+		TextPositionOffset = [ 0.0, 0.0, 0.0 ]
+		TextFacePlayer = true
+		TextHorizontalAlign = "center"
+		RevealOnSuccess = false
+		Title = 
+		{
+			Text = "Préau"
+			FontSize = 125
+			FadeInDist = 800.0
+			FadeOutDist = -1.0
+		}
+		Desc = 
+		{
+			Text = ""
+			FontSize = 75
+			FadeInDist = 800.0
+			FadeOutDist = -1.0
+		}
+	}
+	MapAnnotationNode39 = 
+	{
+		Enabled = true
+		Type = "text"
+		Id = "baee80c4-8031-41db-86da-79b83c5c18d7"
+		SubType = "main"
+		Position = [ 1684.552979, 7.328269, 194.595734 ]
+		Angles = [ 0.73083, 2.222326, 0.0 ]
+		VisiblePfx = false
+		Color = [ 255, 255, 255 ]
+		TextPositionOffset = [ 0.0, 0.0, 0.0 ]
+		TextFacePlayer = true
+		TextHorizontalAlign = "center"
+		RevealOnSuccess = false
+		Title = 
+		{
+			Text = "Short"
+			FontSize = 125
+			FadeInDist = 800.0
+			FadeOutDist = -1.0
+		}
+		Desc = 
+		{
+			Text = ""
+			FontSize = 75
+			FadeInDist = 800.0
+			FadeOutDist = -1.0
+		}
+	}
+	MapAnnotationNode40 = 
+	{
+		Enabled = true
+		Type = "text"
+		Id = "b7fa4c76-eb01-4e79-a954-cddc1c1bd08f"
+		SubType = "main"
+		Position = [ 1512.949951, -328.157806, 319.001556 ]
+		Angles = [ 0.498303, 1.202613, 0.0 ]
+		VisiblePfx = false
+		Color = [ 255, 255, 255 ]
+		TextPositionOffset = [ 0.0, 0.0, 0.0 ]
+		TextFacePlayer = true
+		TextHorizontalAlign = "center"
+		RevealOnSuccess = false
+		Title = 
+		{
+			Text = "Appart"
+			FontSize = 125
+			FadeInDist = 800.0
+			FadeOutDist = -1.0
+		}
+		Desc = 
+		{
+			Text = ""
+			FontSize = 75
+			FadeInDist = 800.0
+			FadeOutDist = -1.0
+		}
+	}
+	MapAnnotationNode41 = 
+	{
+		Enabled = true
+		Type = "text"
+		Id = "21dae35c-3a4f-481b-bdb5-932611968fc5"
+		SubType = "main"
+		Position = [ 1224.207031, -498.719818, 246.230133 ]
+		Angles = [ -28.469574, 89.634148, 0.0 ]
+		VisiblePfx = false
+		Color = [ 255, 255, 255 ]
+		TextPositionOffset = [ 0.0, 0.0, 0.0 ]
+		TextFacePlayer = true
+		TextHorizontalAlign = "center"
+		RevealOnSuccess = false
+		Title = 
+		{
+			Text = "Esca Appart"
+			FontSize = 125
+			FadeInDist = 800.0
+			FadeOutDist = -1.0
+		}
+		Desc = 
+		{
+			Text = ""
+			FontSize = 75
+			FadeInDist = 800.0
+			FadeOutDist = -1.0
+		}
+	}
+	MapAnnotationNode42 = 
+	{
+		Enabled = true
+		Type = "text"
+		Id = "41b319de-306d-4422-8a8a-3e5f2f61ae1a"
+		SubType = "main"
+		Position = [ 2029.415649, -211.533051, 318.656769 ]
+		Angles = [ -3.22239, 153.051117, 0.0 ]
+		VisiblePfx = false
+		Color = [ 255, 255, 255 ]
+		TextPositionOffset = [ 0.0, 0.0, 0.0 ]
+		TextFacePlayer = true
+		TextHorizontalAlign = "center"
+		RevealOnSuccess = false
+		Title = 
+		{
+			Text = "Balcon"
+			FontSize = 125
+			FadeInDist = 800.0
+			FadeOutDist = -1.0
+		}
+		Desc = 
+		{
+			Text = ""
+			FontSize = 75
+			FadeInDist = 800.0
+			FadeOutDist = -1.0
+		}
+	}
+	MapAnnotationNode43 = 
+	{
+		Enabled = true
+		Type = "text"
+		Id = "448861e7-1f19-4058-af27-cb1135310ad8"
+		SubType = "main"
+		Position = [ 2095.158447, -241.361115, 160.798996 ]
+		Angles = [ -0.531569, 86.910088, 0.0 ]
+		VisiblePfx = false
+		Color = [ 255, 255, 255 ]
+		TextPositionOffset = [ 0.0, 0.0, 0.0 ]
+		TextFacePlayer = true
+		TextHorizontalAlign = "center"
+		RevealOnSuccess = false
+		Title = 
+		{
+			Text = "Mini Pit"
+			FontSize = 125
+			FadeInDist = 800.0
+			FadeOutDist = -1.0
+		}
+		Desc = 
+		{
+			Text = "Blaze"
+			FontSize = 75
+			FadeInDist = 800.0
+			FadeOutDist = -1.0
+		}
+	}
+	MapAnnotationNode44 = 
+	{
+		Enabled = true
+		Type = "text"
+		Id = "5c69aea7-21e7-4a55-9714-8ed1568b901a"
+		SubType = "main"
+		Position = [ 2474.395996, -40.175167, 162.93576 ]
+		Angles = [ -1.960028, 174.74408, 0.0 ]
+		VisiblePfx = false
+		Color = [ 255, 255, 255 ]
+		TextPositionOffset = [ 0.0, 0.0, 0.0 ]
+		TextFacePlayer = true
+		TextHorizontalAlign = "center"
+		RevealOnSuccess = false
+		Title = 
+		{
+			Text = "Pit"
+			FontSize = 125
+			FadeInDist = 800.0
+			FadeOutDist = -1.0
+		}
+		Desc = 
+		{
+			Text = ""
+			FontSize = 75
+			FadeInDist = 800.0
+			FadeOutDist = -1.0
+		}
+	}
+	MapAnnotationNode45 = 
+	{
+		Enabled = true
+		Type = "text"
+		Id = "1a2f00c1-764d-406b-9515-5e0ed8dbcd2a"
+		SubType = "main"
+		Position = [ 2170.214844, 265.009064, 250.524872 ]
+		Angles = [ 0.132814, -101.043327, 0.0 ]
+		VisiblePfx = false
+		Color = [ 255, 255, 255 ]
+		TextPositionOffset = [ 0.0, 0.0, 0.0 ]
+		TextFacePlayer = true
+		TextHorizontalAlign = "center"
+		RevealOnSuccess = false
+		Title = 
+		{
+			Text = "Shox"
+			FontSize = 125
+			FadeInDist = 800.0
+			FadeOutDist = -1.0
+		}
+		Desc = 
+		{
+			Text = ""
+			FontSize = 75
+			FadeInDist = 800.0
+			FadeOutDist = -1.0
+		}
+	}
+	MapAnnotationNode46 = 
+	{
+		Enabled = true
+		Type = "text"
+		Id = "8394490a-1a94-4b27-87ad-230e82c1b7ba"
+		SubType = "main"
+		Position = [ 1862.663574, 641.502441, 211.345673 ]
+		Angles = [ 7.773408, 125.976982, 0.0 ]
+		VisiblePfx = false
+		Color = [ 255, 255, 255 ]
+		TextPositionOffset = [ 0.0, 0.0, 0.0 ]
+		TextFacePlayer = true
+		TextHorizontalAlign = "center"
+		RevealOnSuccess = false
+		Title = 
+		{
+			Text = "Fond Site"
+			FontSize = 125
+			FadeInDist = 800.0
+			FadeOutDist = -1.0
+		}
+		Desc = 
+		{
+			Text = ""
+			FontSize = 75
+			FadeInDist = 800.0
+			FadeOutDist = -1.0
+		}
+	}
+	MapAnnotationNode47 = 
+	{
+		Enabled = true
+		Type = "text"
+		Id = "01a416ff-7613-49b5-ad46-22b649328a76"
+		SubType = "main"
+		Position = [ 1856.461426, 228.316315, 265.573761 ]
+		Angles = [ -24.018093, -136.621902, 0.0 ]
+		VisiblePfx = false
+		Color = [ 255, 255, 255 ]
+		TextPositionOffset = [ 0.0, 0.0, 0.0 ]
+		TextFacePlayer = true
+		TextHorizontalAlign = "center"
+		RevealOnSuccess = false
+		Title = 
+		{
+			Text = "Ninja"
+			FontSize = 125
+			FadeInDist = 800.0
+			FadeOutDist = -1.0
+		}
+		Desc = 
+		{
+			Text = ""
+			FontSize = 75
+			FadeInDist = 800.0
+			FadeOutDist = -1.0
+		}
+	}
+	MapAnnotationNode48 = 
+	{
+		Enabled = true
+		Type = "text"
+		Id = "edf572ef-ea04-4329-9b00-fa33690f1c62"
+		SubType = "main"
+		Position = [ 2556.016357, 500.195435, 273.555664 ]
+		Angles = [ 3.620969, -6.105687, 0.0 ]
+		VisiblePfx = false
+		Color = [ 255, 255, 255 ]
+		TextPositionOffset = [ 0.0, 0.0, 0.0 ]
+		TextFacePlayer = true
+		TextHorizontalAlign = "center"
+		RevealOnSuccess = false
+		Title = 
+		{
+			Text = "Graveyard"
+			FontSize = 125
+			FadeInDist = 800.0
+			FadeOutDist = -1.0
+		}
+		Desc = 
+		{
+			Text = ""
+			FontSize = 75
+			FadeInDist = 800.0
+			FadeOutDist = -1.0
+		}
+	}
+	MapAnnotationNode49 = 
+	{
+		Enabled = true
+		Type = "text"
+		Id = "91714c62-5864-4dbb-9b8c-e8f008c1134c"
+		SubType = "main"
+		Position = [ 2292.976807, 782.001831, 213.368729 ]
+		Angles = [ -0.232558, 87.740891, 0.0 ]
+		VisiblePfx = false
+		Color = [ 255, 255, 255 ]
+		TextPositionOffset = [ 0.0, 0.0, 0.0 ]
+		TextFacePlayer = true
+		TextHorizontalAlign = "center"
+		RevealOnSuccess = false
+		Title = 
+		{
+			Text = "Plaine"
+			FontSize = 125
+			FadeInDist = 800.0
+			FadeOutDist = -1.0
+		}
+		Desc = 
+		{
+			Text = ""
+			FontSize = 75
+			FadeInDist = 800.0
+			FadeOutDist = -1.0
+		}
+	}
+	MapAnnotationNode50 = 
+	{
+		Enabled = true
+		Type = "text"
+		Id = "178776b9-9b27-4cf3-9b1f-9d195f47e79a"
+		SubType = "main"
+		Position = [ 1845.039795, 1124.426147, 227.421066 ]
+		Angles = [ 0.664382, 179.826691, 0.0 ]
+		VisiblePfx = false
+		Color = [ 255, 255, 255 ]
+		TextPositionOffset = [ 0.0, 0.0, 0.0 ]
+		TextFacePlayer = true
+		TextHorizontalAlign = "center"
+		RevealOnSuccess = false
+		Title = 
+		{
+			Text = "Long"
+			FontSize = 125
+			FadeInDist = 800.0
+			FadeOutDist = -1.0
+		}
+		Desc = 
+		{
+			Text = ""
+			FontSize = 75
+			FadeInDist = 800.0
+			FadeOutDist = -1.0
+		}
+	}
+	MapAnnotationNode51 = 
+	{
+		Enabled = true
+		Type = "text"
+		Id = "aa2732a4-f7e0-4628-8e08-a8815fa914ac"
+		SubType = "main"
+		Position = [ 1302.34436, 1208.355957, 240.335114 ]
+		Angles = [ -0.265778, 179.394821, 0.0 ]
+		VisiblePfx = false
+		Color = [ 255, 255, 255 ]
+		TextPositionOffset = [ 0.0, 0.0, 0.0 ]
+		TextFacePlayer = true
+		TextHorizontalAlign = "center"
+		RevealOnSuccess = false
+		Title = 
+		{
+			Text = "Coin Pute"
+			FontSize = 125
+			FadeInDist = 800.0
+			FadeOutDist = -1.0
+		}
+		Desc = 
+		{
+			Text = ""
+			FontSize = 75
+			FadeInDist = 800.0
+			FadeOutDist = -1.0
+		}
+	}
 }

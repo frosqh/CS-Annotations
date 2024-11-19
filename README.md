@@ -104,5 +104,5 @@ Au-delà des fichiers README.md et .gitgnore, le dossier est composé d'un dossi
 | nades.txt      | Contient les repères pour les grenades explosives 💣               |
 | molos.txt      | Contient les repères pour les molotovs et grenades incendiaires 🔥 |
 | bangers.txt    | Contient les repères pour les travers 🧱                           |
-| positions.txt  | Contient le nom des différents positions 🗺                        |
+| positions.txt  | Contient le nom des différentes positions 🗺                        |
 | À venir        | ⌛                                                                  |
