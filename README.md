@@ -72,6 +72,18 @@ La version la plus simple de la
 
 ### Texte
 
+De loin la variante la plus simple, l'argument `text` de la commande `annotation_create` vous permet d'afficher une annotation textuelle dans le jeu. C'est la méthode utilisée pour les noms de positions. 
+
+La commande prend quatre arguments : `annotation_create text [title] [desc] (float|surface) [TextFacePlayer]`.
+
+Les arguments `title` et `desc` correspondent au titre et à la description qui devra être affiché dans le texte. Le troisième argument ne peut avoir que deux valeurs, `float` ou `surface`, et dicte le mode d'affichage du texte. Si l'on souhaite que l'annotation flotte dans les airs à une petite distance du viseur, on privilégiera `float`, ou `surface` si l'on préfère avoir un texte accolé au mur que l'on regarde. Enfin, le dernier argument, un booléen, ordonne le comportement d'orientation du texte. S'il est mis à `true`, le texte tourne pour toujours être lisible par le joueur. Sinon, il reste fixe.
+
+>[!Warning] Attention
+>Le dernier argument n'est pas pris en compte dans la commande, mais peut être édité à la main dans les fichiers *.txt.
+
+
+
+
 ### Enregistrement 
 
 # Architecture du repo
