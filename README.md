@@ -50,18 +50,29 @@ mp_startmoney 100000;
 
 Une fois en jeu, il faut commencer par autoriser l'utilisation d'annotations `sv_allow_annotations true`. Une fois cela fait, on peut charger le fichier qui nous intéresse avec la commande `annotation_load [map]/[type]` où \[map\] et \[type\] sont à renseigner en fonction de vos besoins et en suivant la nomenclature rappelée [plus bas](https://github.com/frosqh/CS-Annotations?tab=readme-ov-file#architecture-du-repo).
 
-# Création d'annotations
+# Commandes relatives aux annotations
 
-Les outils développés par Valve™ sont 
-## Repère de grenade
+Les outils développés par Valve™ sont encore bien incomplets. Aucune documentation officielle n'est disponible, mais un descriptif rapide est présenté ci-dessous.
+## Création d'annotation
 
-## Spot
+Afin de créer une annotation, on utilise la commande `annotation_create`. Il existe plusieurs modes correspondant à différents types d'annotation créables.
 
-## Position
+De manière générale, si vous voulez ajouter des repères à un config déjà existante, pensez à la charger avec `allocation_load [config]` avant de créer les nouvelles annotations.
+### Repère de grenade
 
-## Ligne
+Le premier de ces modes correspond à celui qui nous intéresse le plus : les repères de grenades. 
 
-## Texte
+La version la plus simple de la
+
+### Spot
+
+### Position
+
+### Ligne
+
+### Texte
+
+### Enregistrement 
 
 # Architecture du repo
 
