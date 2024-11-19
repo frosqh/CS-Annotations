@@ -51,7 +51,7 @@ mp_startmoney 100000;
 Une fois en jeu, il faut commencer par autoriser l'utilisation d'annotations `sv_allow_annotations true`. Une fois cela fait, on peut charger le fichier qui nous intéresse avec la commande `annotation_load [map]/[type]` où \[map\] et \[type\] sont à renseigner en fonction de vos besoins et en suivant la nomenclature rappelée [plus bas](https://github.com/frosqh/CS-Annotations?tab=readme-ov-file#architecture-du-repo).
 
 
->[!Warning] Perte de données
+> [!WARNING] 
 > Charger un fichier écrase toutes les annotations présentes !
 
 # Commandes relatives aux annotations
@@ -82,12 +82,15 @@ La commande prend quatre arguments : `annotation_create text [title] [desc] (flo
 
 Les arguments `title` et `desc` correspondent au titre et à la description qui devra être affiché dans le texte. Le troisième argument ne peut avoir que deux valeurs, `float` ou `surface`, et dicte le mode d'affichage du texte. Si l'on souhaite que l'annotation flotte dans les airs à une petite distance du viseur, on privilégiera `float`, ou `surface` si l'on préfère avoir un texte accolé au mur que l'on regarde. Enfin, le dernier argument, un booléen, ordonne le comportement d'orientation du texte. S'il est mis à `true`, le texte tourne pour toujours être lisible par le joueur. Sinon, il reste fixe.
 
->[!Warning] Attention
->Le dernier argument n'est pas pris en compte dans la commande, mais peut être édité à la main dans les fichiers *.txt.
+> [!CAUTION] 
+> Le dernier argument n'est pas pris en compte dans la commande, mais peut être édité à la main dans les fichiers *.txt.
 
 ### Enregistrement 
 
 Pour sauvegarder les changements que vous avez réalisé sur un fichier, vous pouvez exécuter la commande `annotation_save [nomdufichier]`.
+
+> [!TIP]
+> Effectuez des enregistrement et chargement fréquemment pour ne pas perdre vos travaux !
 
 
 # Architecture du repo
