@@ -95,4 +95,95 @@
 		MasterNodeId = "cb0604fd-742d-4d99-a522-72ebb1f13483"
 		DistanceThreshold = 80.0
 	}
+	MapAnnotationNode3 = 
+	{
+		Enabled = true
+		Type = "grenade"
+		Id = "43d93969-e816-43b3-8dd2-1346a51f05d4"
+		SubType = "main"
+		Position = [ 2085.858887, 1235.968506, 180.03125 ]
+		Angles = [ 0.0, -88.495216, 0.0 ]
+		VisiblePfx = true
+		Color = [ 255, 255, 255 ]
+		TextPositionOffset = [ 0.0, 0.0, 60.0 ]
+		TextFacePlayer = true
+		TextHorizontalAlign = "center"
+		RevealOnSuccess = false
+		Title = 
+		{
+			Text = "Molo Default - Long"
+			FontSize = 125
+			FadeInDist = 600.0
+			FadeOutDist = 40.0
+		}
+		Desc = 
+		{
+			Text = "standing instructions"
+			FontSize = 75
+			FadeInDist = 300.0
+			FadeOutDist = 40.0
+		}
+		StreakLimitGuidesOn = 2
+		StreakLimitGuidesOff = 2
+		JumpThrow = false
+	}
+	MapAnnotationNode4 = 
+	{
+		Enabled = true
+		Type = "grenade"
+		Id = "f05515a9-9531-4a58-8628-83fa166eb168"
+		SubType = "aim_target"
+		Position = [ 2087.954102, 1156.205933, 304.150085 ]
+		Angles = [ -37.069862, -88.495369, 0.0 ]
+		VisiblePfx = true
+		TextPositionOffset = [ 0.0, 0.0, 30.0 ]
+		TextFacePlayer = false
+		TextHorizontalAlign = "center"
+		RevealOnSuccess = false
+		Title = 
+		{
+			Text = "Molo Default - Long"
+			FontSize = 125
+			FadeInDist = 50.0
+			FadeOutDist = -1.0
+		}
+		Desc = 
+		{
+			Text = "aim instructions"
+			FontSize = 75
+			FadeInDist = 50.0
+			FadeOutDist = -1.0
+		}
+		MasterNodeId = "43d93969-e816-43b3-8dd2-1346a51f05d4"
+	}
+	MapAnnotationNode5 = 
+	{
+		Enabled = true
+		Type = "grenade"
+		Id = "282312c0-197a-444b-b526-536899b2b4e2"
+		SubType = "destination"
+		Position = [ 2111.769531, 251.497849, 277.414124 ]
+		Angles = [ -37.069862, -88.495369, 0.0 ]
+		VisiblePfx = true
+		TextPositionOffset = [ 0.0, 0.0, 0.0 ]
+		TextFacePlayer = false
+		TextHorizontalAlign = "center"
+		RevealOnSuccess = false
+		Title = 
+		{
+			Text = ""
+			FontSize = 75
+			FadeInDist = 50.0
+			FadeOutDist = -1.0
+		}
+		Desc = 
+		{
+			Text = ""
+			FontSize = 75
+			FadeInDist = 50.0
+			FadeOutDist = -1.0
+		}
+		MasterNodeId = "43d93969-e816-43b3-8dd2-1346a51f05d4"
+		DistanceThreshold = 80.0
+	}
 }
