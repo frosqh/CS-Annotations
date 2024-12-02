@@ -59,20 +59,53 @@ Une fois en jeu, il faut commencer par autoriser l'utilisation d'annotations `sv
 Les outils développés par Valve™ sont encore bien incomplets. Aucune documentation officielle n'est disponible, mais un descriptif rapide est présenté ci-dessous.
 ## Création d'annotation
 
-Afin de créer une annotation, on utilise la commande `annotation_create`. Il existe plusieurs modes correspondant à différents types d'annotation créables.
+Les annotations sont composées d'un ou plusieurs nœuds. Alors que la plupart des annotations se limitent à un seul nœud, les annotations de grenade en utilisent trois par défaut, et vous pouvez les personnaliser pour en utiliser davantage si nécessaire.
 
-De manière générale, si vous voulez ajouter des repères à un config déjà existante, pensez à la charger avec `allocation_load [config]` avant de créer les nouvelles annotations.
+Afin de créer une annotation, il suffit d'utiliser la commande `annotation_create` avec un ensemble de nœuds. Il existe plusieurs nœuds correspondant à différents types d'annotation créables.
+
+> [!TIP]
+> Pour rappel, si vous voulez ajouter des repères à une configuration déjà existante, pensez à la charger avec `allocation_load [config]` avant de créer les nouvelles annotations.
+
 ### Repère de grenade
 
-Le premier de ces modes correspond à celui qui nous intéresse le plus : les repères de grenades. 
+Une simple annotation de grenade. La commande créera automatiquement trois nœuds en fonction de :
+- Votre position actuelle et la direction à laquelle vous faites face
+- Le point final de la dernière trajectoire de grenade que vous avez lancée
 
-La version la plus simple de la
+Pour la créer, exécuter la commande : `annotation_create grenade (type) [title]` avec comme `type` : [smoke|flash|he|fire|decoy] et pour `title` le nom de référence de la grenade à lancer.
 
 ### Spot
 
+Crée un nœud de point de visée. Ces nœuds sont généralement utilisés pour les annotations de grenades, mais ils peuvent être utilisés pour d'autres conseils.
+
+La commande crée le noeud en se basant sur la position actuelle du joueur :
+- Position
+- Direction d'orientation
+
+Le nœud lui-même apparaîtra de couleur rougeâtre lorsque vous n'êtes pas dans la bonne position et passera à une couleur verdâtre lorsque vous vous rapprocherez de la position à partir de laquelle le nœud a été généré.
+
+Il suffit d'exécuter la commande suivaznte : `annotation_create spot`
+
+En dehors des grenades, ce type de nœuds peut être utilisé pour les **wallbangs**.
+
 ### Position
 
+Place un noeud aux pieds et dans la direction du joueur. Cela peut être utile pour, par exemple, documenter les spawns.
+
+Exécuter la commande suivante : `annotation_create position [title]` où `title` est le nom de la position que vous souhaitez donner.
+
 ### Ligne
+
+Cette commande ne crée pas directement des lignes d'annotation, mais des points sur lesquels des lignes peuvent être dessinées.
+
+Les nœuds de points de ligne peuvent être montés sur une surface que le joueur regarde ou flottante (la position actuelle du joueur).
+
+Pour créer une ligne, vous devez d'abord exécuter : `annotation_create line (surface|float) new` où `(surface|float)` est l'une des options de configuration mentionnées ci-dessus sur l'endroit où le point sera monté.
+Le paramètre `new` spécifie que vous créez une nouvelle ligne et que le nœud de point précédent que vous avez créé ne sera pas connecté au nœud de point nouvellement créé.
+
+Pour dessiner une ligne, exécutez : `annotation_create line <surface|float>` et vous devriez voir la ligne nouvellement créée.
+
+La ligne peut être connectée à d'autres points en répétant la commande ci-dessus.
 
 ### Texte
 
