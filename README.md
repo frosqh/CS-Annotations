@@ -69,7 +69,7 @@ Afin de créer une annotation, il suffit d'utiliser la commande `annotation_crea
 ### Repère de grenade
 
 Une simple annotation de grenade. La commande créera automatiquement trois nœuds en fonction de :
-- votre position actuelle et la direction à laquelle vous faites face
+- Votre position actuelle et la direction à laquelle vous faites face
 - Le point final de la dernière trajectoire de grenade que vous avez lancée
 
 Pour la créer, exécuter la commande : `annotation_create grenade (type) [title]` avec comme `type` : [smoke|flash|he|fire|decoy] et pour `title` le nom de référence de la grenade à lancer.
@@ -79,8 +79,8 @@ Pour la créer, exécuter la commande : `annotation_create grenade (type) [title
 Crée un nœud de point de visée. Ces nœuds sont généralement utilisés pour les annotations de grenades, mais ils peuvent être utilisés pour d'autres conseils.
 
 La commande crée le noeud en se basant sur la position actuelle du joueur :
-- position
-- direction d'orientation
+- Position
+- Direction d'orientation
 
 Le nœud lui-même apparaîtra de couleur rougeâtre lorsque vous n'êtes pas dans la bonne position et passera à une couleur verdâtre lorsque vous vous rapprocherez de la position à partir de laquelle le nœud a été généré.
 
